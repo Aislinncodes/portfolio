@@ -1,0 +1,11 @@
+{
+  "name": "html-css-portfolio",
+  "version": "1.0.0",
+  "description": "Aislinn Codes Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aislinn Wallace",
+  "license": "ISC"
+}
